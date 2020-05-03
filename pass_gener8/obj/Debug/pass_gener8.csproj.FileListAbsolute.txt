@@ -1,0 +1,10 @@
+C:\Users\Anandito\source\repos\pass_gener8\pass_gener8\obj\Debug\pass_gener8.csprojAssemblyReference.cache
+C:\Users\Anandito\source\repos\pass_gener8\pass_gener8\obj\Debug\pass_gener8.Form1.resources
+C:\Users\Anandito\source\repos\pass_gener8\pass_gener8\obj\Debug\pass_gener8.Properties.Resources.resources
+C:\Users\Anandito\source\repos\pass_gener8\pass_gener8\obj\Debug\pass_gener8.csproj.GenerateResource.cache
+C:\Users\Anandito\source\repos\pass_gener8\pass_gener8\obj\Debug\pass_gener8.csproj.CoreCompileInputs.cache
+C:\Users\Anandito\source\repos\pass_gener8\pass_gener8\bin\Debug\pass_gener8.exe.config
+C:\Users\Anandito\source\repos\pass_gener8\pass_gener8\bin\Debug\pass_gener8.exe
+C:\Users\Anandito\source\repos\pass_gener8\pass_gener8\bin\Debug\pass_gener8.pdb
+C:\Users\Anandito\source\repos\pass_gener8\pass_gener8\obj\Debug\pass_gener8.exe
+C:\Users\Anandito\source\repos\pass_gener8\pass_gener8\obj\Debug\pass_gener8.pdb
