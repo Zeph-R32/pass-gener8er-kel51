@@ -33,5 +33,15 @@ namespace pass_gener8_kel51
             }
             textBox2.Text = randomstring;
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Clipboard.SetText(textBox2.Text);
+        }
     }
 }
